@@ -1,0 +1,31 @@
+{
+ "backend": "local",
+ "cores": 1,
+ "cpu_count": 2,
+ "python": "3.13.16",
+ "size": 1024,
+ "images": [
+  "T1",
+  "T2",
+  "T3"
+ ],
+ "tiles": [
+  64,
+  128,
+  256,
+  512
+ ],
+ "levels": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "repeats": 1,
+ "tanggal": "2026-10-13 13:23",
+ "numpy": "2.5.3",
+ "scipy": "1.18.1",
+ "skimage": "0.26.0",
+ "tile_waktu": 128
+}

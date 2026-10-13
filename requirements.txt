@@ -1,0 +1,11 @@
+pyspark>=3.5
+numpy
+scipy
+scikit-image
+pandas
+matplotlib
+reportlab
+pillow
+# hanya untuk get_data.py --source sentinel
+requests
+rasterio
